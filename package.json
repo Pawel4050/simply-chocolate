@@ -4,7 +4,6 @@
   "description": "",
   "homepage": "https://pawel4050.github.io/simply-chocolate",
   "scripts": {
-    "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /simply-chocolate/"
   },
   "repository": {
